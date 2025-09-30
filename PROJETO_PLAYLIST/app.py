@@ -73,7 +73,7 @@ with video:
              ''')
 
          elif artista == 'Mc Kevin':
-             st.markdown(''' Kevin Nascimento Bueno (São Paulo, 29 de abril de 1998 – Rio de Janeiro, 16 de maio de 2021), conhecido artisticamente como MC Kevin, foi um cantor e compositor brasileiro.
+             st.markdown(''' Kevin Nascimento Bueno (São Paulo, 29 de abril de 1998  Rio de Janeiro, 16 de maio de 2021), conhecido artisticamente como MC Kevin, foi um cantor e compositor brasileiro.
              ''')
 
          elif artista == 'Mc IG':
@@ -93,7 +93,7 @@ with video:
              ''')
 
          elif artista ==  'Kaney West':
-             st.markdown(''' Ye[1] (em inglês: Ye; romaniz.: [jeɪ]; YAY; nascido Kanye Omari West; Atlanta, 8 de junho de 1977), mais conhecido como Kanye West (em inglês: Kanye West; romaniz.: [ˈkɑːnjeɪ]; KAHN-yay),[8] é um rapper, compositor, produtor musical, político e designer de moda americano.[9][10][11] West ficou famoso no início de sua carreira como produtor da Roc-A-Fella Records, onde ganhou reconhecimento pelo seu trabalho no álbum The Blueprint, de Jay-Z, assim como por hits para outros cantores como Alicia Keys, Ludacris, Janet Jackson e outros. Atualmente, como vocalista, West é o 4.º artista que mais vendeu músicas em formato digital.[12] Além disso, ele acumula uma impressionante coleção de prêmios, incluindo um total de 24 Grammys, tornando-se assim o maior rapper da história da premiação. Sua notável conquista de 24 Grammys também o posiciona como o 7.º artista mais laureado dentre todas as edições da premiação.[13] Para além disso, em 2024, a Billboard elegeu Kanye West como a sétima maior estrela pop do período 2000–2024.[14]
+             st.markdown(''' Ye[1] (em inglês: Ye; romaniz.: [je]; YAY; nascido Kanye Omari West; Atlanta, 8 de junho de 1977), mais conhecido como Kanye West (em inglês: Kanye West; romaniz.: [ˈkɑːnjeɪ]; KAHN-yay),[8] é um rapper, compositor, produtor musical, político e designer de moda americano.[9][10][11] West ficou famoso no início de sua carreira como produtor da Roc-A-Fella Records, onde ganhou reconhecimento pelo seu trabalho no álbum The Blueprint, de Jay-Z, assim como por hits para outros cantores como Alicia Keys, Ludacris, Janet Jackson e outros. Atualmente, como vocalista, West é o 4.º artista que mais vendeu músicas em formato digital.[12] Além disso, ele acumula uma impressionante coleção de prêmios, incluindo um total de 24 Grammys, tornando-se assim o maior rapper da história da premiação. Sua notável conquista de 24 Grammys também o posiciona como o 7.º artista mais laureado dentre todas as edições da premiação.[13] Para além disso, em 2024, a Billboard elegeu Kanye West como a sétima maior estrela pop do período 2000–2024.[14]
              ''')
 
          elif artista == 'YNW Melli':
@@ -101,7 +101,7 @@ with video:
              ''')
 
          elif artista == 'Arlindo Cruz':
-             st.markdown(''' Arlindo Domingos da Cruz Filho OMC (Rio de Janeiro, 14 de setembro de 1958 – Rio de Janeiro, 8 de agosto de 2025) foi um cantor, compositor e músico brasileiro. Em trinta e seis anos de carreira lançou vinte e três álbuns, sendo nove enquanto integrante do Fundo de Quintal, cinco em parceria com o sambista Sombrinha e nove em carreira solo.
+             st.markdown(''' Arlindo Domingos da Cruz Filho OMC (Rio de Janeiro, 14 de setembro de 1958  Rio de Janeiro, 8 de agosto de 2025) foi um cantor, compositor e músico brasileiro. Em trinta e seis anos de carreira lançou vinte e três álbuns, sendo nove enquanto integrante do Fundo de Quintal, cinco em parceria com o sambista Sombrinha e nove em carreira solo.
              ''')
 
          elif artista == 'thiaguinho':
@@ -113,8 +113,8 @@ with video:
              st.markdown(''' Jheison Failde de Souza (Rio de Janeiro, 20 de outubro de 1988), mais conhecido pelo nome artístico Ferrugem, é um cantor e compositor brasileiro.[1]
              Após ganhar destaque com a canção "Climatizar" nas rádios, Ferrugem assinou com a gravadora Warner Music Brasil e lançou em 2015 seu álbum de estreia Climatizar. Seu segundo álbum Seja o Que Deus Quiser foi lançado em 2017.[2] Porém Ferrugem só obteve visibilidade nacional após o lançamento do seu primeiro DVD Prazer, eu sou Ferrugem, lançado em 2018.[3] O álbum lhe rendeu uma indicação ao Grammy Latino na categoria Melhor Disco de Samba e Pagode.[4] Em 2019, lançou seu segundo DVD Chão de Estrelas
              ''')
-             
+
          elif artista == 'pixote':
              st.markdown('''Pixote, a Lei do Mais Fraco é um filme brasileiro de 1980,[2] do gênero drama, dirigido por Hector Babenco. O roteiro do filme foi escrito por Babenco e Jorge Durán, sendo baseado no livro de romance-reportagem[3] Infância dos Mortos do escritor José Louzeiro.
              ''')
-         
+
